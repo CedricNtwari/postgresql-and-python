@@ -1,10 +1,17 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+## Chinook Database
 
-Welcome,
+The Chinook database is a sample database available for SQL Server, Oracle, MySQL, etc., that represents a digital media store, including tables for artists, albums, media tracks, invoices, and customers. This repository contains SQL scripts to help you install, populate, and manipulate the Chinook database for learning and testing SQL queries.
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## What is Chinook Database?
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+The Chinook database is a set of SQL commands contained in a text file, designed to simulate a real-world scenario for a digital media store. This database is an excellent resource for practicing SQL and understanding database management and querying techniques.
+
+## Features
+
+Schema Setup: Scripts to create and setup the database schema.
+Data Population: Scripts to populate the database with sample data.
+Query Examples: A variety of SQL queries for data manipulation and retrieval.
+Updates and Migrations: Scripts for updating data and schema migrations.
 
 ## Codeanywhere Reminders
 
