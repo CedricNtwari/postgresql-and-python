@@ -6,6 +6,14 @@ The Chinook database is a sample database available for SQL Server, Oracle, MySQ
 
 The Chinook database is a set of SQL commands contained in a text file, designed to simulate a real-world scenario for a digital media store. This database is an excellent resource for practicing SQL and understanding database management and querying techniques.
 
+## What does it do?
+
+Chinook Database allows us to script database operations, such as creating, populating, and updating databases.
+
+## How do you use it?
+
+Chinook Database puts database commands in a .sql file, and run them using the Postgres command line interface.
+
 ## Features
 
 Schema Setup: Scripts to create and setup the database schema.
